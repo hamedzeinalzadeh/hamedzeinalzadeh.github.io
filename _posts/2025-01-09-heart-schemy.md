@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heart schemy dataset"
+title:  "Heart Schemy Dataset"
 date:   2025-01-09 10:00:00 +0000
 categories: Bioinformatics
 ---
