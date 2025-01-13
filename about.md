@@ -5,7 +5,7 @@ title: About Me
 
 **About Me**
 
-Hey, thanks for visiting my site. I am an ML engineer interested in AI intersections with bioinformatics and medical engineering.
+Hey, thanks for visiting my site. I am a ML engineer interested in AI intersections with bioinformatics and medical engineering.
 
 **Education:**
 
