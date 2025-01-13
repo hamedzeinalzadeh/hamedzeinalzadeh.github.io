@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Heart schemy dataset"
+title:  "Single-Cell RNA Sequencing Analysis"
 date:   2025-01-09 10:00:00 +0000
 categories: Bioinformatics
 ---
 
-# Single-Cell RNA Sequencing Analysis
+
 
 ## **Introduction to Single-Cell RNA Sequencing (scRNA-seq)**
 
